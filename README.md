@@ -9,4 +9,4 @@ Simple tool to edit strings in an asset file. can be used for hxd swaps
 
 ## Authors
 
-- [@CodeAmme](https://github.com/CodeAmme)
+- Cracked version of: [@Wslt](https://github.com/CodeWslt/Fortnite-Uasset-Reader)
